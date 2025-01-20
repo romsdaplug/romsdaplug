@@ -1,4 +1,4 @@
-![aboutme]((https://cdn.discordapp.com/attachments/852280704733937724/1330837721442160662/carbonn.png?ex=678f6eb6&is=678e1d36&hm=e9c702936cbefacb9362784d48035d3a5440c2da214be6e316919fd006d7743d&))
+![aboutme](https://i.ibb.co/0ypVtmp/carbonn.png)
 
 <h1 align='center'> Welcome! :wave:</h1>
 <p align='center'>
