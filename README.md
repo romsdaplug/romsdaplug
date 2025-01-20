@@ -1,4 +1,4 @@
-![aboutme](https://cdn.discordapp.com/attachments/808528452000808990/1120049689950163055/carbon.png)
+![aboutme]((https://cdn.discordapp.com/attachments/852280704733937724/1330837721442160662/carbonn.png?ex=678f6eb6&is=678e1d36&hm=e9c702936cbefacb9362784d48035d3a5440c2da214be6e316919fd006d7743d&))
 
 <h1 align='center'> Welcome! :wave:</h1>
 <p align='center'>
@@ -7,22 +7,8 @@ I'm Romain, a French developer & I'm great at finding workarounds & bypasses.
 
 ---
 
-## 🔭 Working on
-<ul>
-  <li>
-    <h3><b>Scripting Tools</b></h3>
-    <img width="100" align='right' alt="scripting tools" src="https://cdn.discordapp.com/attachments/808528452000808990/1120323055181385768/ZKOhewTD_400x400.png">
-    <p> Scripting Tools is a toolbox provided on Discord App for sneakers reseller which helps to track order/stock/variants on multiples sites </p>
-    <a href="https://twitter.com/scriptingtool">Twitter</a>
-    <a href=""></a>
-    <a href=""></a>
-  </li>
-</ul> 
-
---- 
-
 ## 🌱 I’m currently learning
-<img width="100" align='right' alt="go" src="https://cdn.discordapp.com/attachments/808528452000808990/1120324323312422963/Go-Logo_Blue.png">
+<img width="100" align='right' alt="go" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png">
 <ul>  <li>
     <h3><b>Golang</b></h3>
   </li>
