@@ -15,7 +15,13 @@ I'm Romain, a French developer & I'm great at finding workarounds & bypasses.
   <li>
     <h3><b>Maybe more soon..</b></h3>
   </li>
-</ul> 
+</ul>
+
+--- 
+
+## 📁 My portfolio
+
+- [Feel free to check out my portoflio](https://romainp12.netlify.app/)
 
 --- 
 
